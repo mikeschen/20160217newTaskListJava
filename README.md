@@ -1,8 +1,8 @@
-# To-Do List
+# To-Do List Updated Version
 
 #### Creates an application that lists the to do tasks and adds them to a list.
 
-#### By Polina Nenchev
+#### By Polina Nenchev and Michael Schennum
 
 ## Description
 
@@ -26,4 +26,4 @@ Java, Spark, Junit, Velocity, Bootstrap
 
 This software is licensed under the MIT license.
 
-Copyright (c) 2016 Polina Nenchev
+Copyright (c) 2016 Polina Nenchev and Michael Schennum
